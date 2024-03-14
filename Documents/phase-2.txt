@@ -1,2 +1,0 @@
-detailed deep web crawler
-paralell web crawler
